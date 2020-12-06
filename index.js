@@ -55,7 +55,7 @@ app.get('/picture/category/:cat', function(req, res){
     }  
 
     for(let i = 0; i < pictures.pictures.length; i++){
-        if(pictures.pictures[i].type.includes(language)){
+        if(pictures.pictures[i].type === language){
             q.push(pictures.pictures[i])
         }
     }
