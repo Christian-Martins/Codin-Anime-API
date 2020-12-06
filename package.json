@@ -1,0 +1,14 @@
+{
+  "name": "codinanimeapi",
+  "version": "0.1.0",
+  "description": "A very simple API witch returns you some anime pictures with programming reference on it",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Enertix",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}

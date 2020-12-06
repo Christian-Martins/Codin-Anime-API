@@ -1,0 +1,259 @@
+{
+    "pictures": [
+        { 
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/Javascript/Doma_Umaru_Java_Script_The_Good_Parts.png", 
+            "type" :"Javascript",
+            "author" : "LaynH"
+        },
+        { 
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/Javascript/Monogatari_Shinobu_Speaking_Javascript.png", 
+            "type": "Javascript", 
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/Javascript/Chitanda_Holding_Programming_Books_With_Deno_Manual_On_The_Top.png",
+            "type": "Javascript",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/Javascript/Ikuno_Holding_Javascript_The_Definitive_Guide.png",
+            "type": "Javascript",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/Javascript/Ninomae_Ina'nis_Holding_Eloquent_Javascript.jpg",
+            "type": "Javascript",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/Javascript/Ram_Holding_JavaScript_The_Good_Parts.png",
+            "type": "Javascript",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/Javascript/Tamaki_Mari_Holding_Eloquent_JavaScript.jpg",
+            "type": "Javascript",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/Javascript/Tosaka_Rin_Learning_JS.png",
+            "type": "Javascript",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/Javascript/Zero_Two_Holding_Nodejs_8_the_Right_Way.png",
+            "type": "Javascript",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%23/Chisaki_Tapris_C%23.png",
+            "type": "C#",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%23/Kurumizawa_Satanichia_C%23.png",
+            "type": "C#",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%23/PRO_C%23_7.jpg",
+            "type": "C#",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Kei_Shirogane_crying_CPP.png",
+            "type": "C++",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakura_Nene_CPP.jpg",
+            "type": "C++",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakura_Nene_CPP_Covered.jpg",
+            "type": "C++",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakura_Nene_CPP_Fullface.png",
+            "type": "C++",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakurajima_Mai_Holding_The_C%2B%2B_Programming_Language.jpg",
+            "type": "C++",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Uiharu_Kazari_Modern_CPP_Design%20.jpg",
+            "type": "C++",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/gabriela_lotarynska_cpp.jpg",
+            "type": "C++",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Ai_Hayasaka_Holding_C_Programming_Language.jpg",
+            "type": "C",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Akiyama_Mio_Reading_C_Programming_Language.png",
+            "type": "C",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Arikawa_Hime_Holding_C_Programming_Language.png",
+            "type": "C",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Chitanda_Eru_Holding_C_Programming_Language.jpg",
+            "type": "C",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Fuko_Ibuki_Holding_Up_C.jpg",
+            "type": "C",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Hakurei_Reimu_Holding_C_Programming_Language.jpg",
+            "type": "C",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Hibiki_Holding_C_Programming_Language.png",
+            "type": "C",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/IM%40S_Minase_Iori_Holding_Chest_C_Programming_Language.png",
+            "type": "C",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Ikezawa_Hanako_Sitting_Reading_C_Programming_Language.png",
+            "type": "C",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Kagamihara_nadeshiko_Reading_C_Programming_Language.png",
+            "type": "C",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Kuriyama_Mirai_flips_through_The_C_Programming_Language.gif",
+            "type": "C",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Mai_Sakurajima_Holding_C_Programming_Language.png",
+            "type": "C",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Megumin_Holding_C_Programming_Language.jpg",
+            "type": "C",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Miss_Monochrome_Holding_C_Programming_Language.png",
+            "type": "C",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Murakami_Shiina_Holding_Computer_C_Programming_Language.png",
+            "type": "C",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Nagato_Backflip_With_C_Programming_Language.png",
+            "type": "C",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Nagato_Reading_The_C_Programming_Language_In_The_Library.png",
+            "type": "C",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Sakura_Nene_Holding_C_Programming_Language_Book.jpg",
+            "type": "C",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Shima_Rin_Motivated_With_C.png",
+            "type": "C",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Shiomiya_Shiori_Holding_Shy_C_Programming_language_wp.png",
+            "type": "C",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C/Tsukukakushi_Tsukiko_Holding_C_Programming_Language.png",
+            "type": "C",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/PHP/Gabriel_DropOut_Chisaki_PHP.png",
+            "type": "PHP",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/Java/FGO_Artoria_Pendragon_Java_For_Dummies_7.png",
+            "type": "Java",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/Java/Hayasaka_Holding_Android_Java.png",
+            "type": "Android",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/Java/Kurumizawa_Satanichia_Intro_To_Java_Programming.png",
+            "type": "Java",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/Java/Kurumizawa_Satanichia_JavaFx_8_Intro_by_Example.png",
+            "type": "Java",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/Java/Uiharu_Kazari_Thinks_In_Java%20.jpg",
+            "type": "Java",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/Go/Chitanda_Eru_Holding_GO_Programming_Language.jpg",
+            "type": "Go",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/Go/Lain_Reading_The_Go_Programming_Lanquage.png",
+            "type": "Go",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/Go/Yaoyorozu_Momo_Holding_Go_Programming_Language.png",
+            "type": "Go",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/Lua/Girl_Reading_Lua_Language_Book.png",
+            "type": "Lua",
+            "author": "LaynH"
+        },
+        {
+            "url" : "https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/Lua/Idolmaster_Million_Live_Yuriko_Nanao_Holding_Programming_in_Lua_by_Roberto_Ierusalimschy.png",
+            "type": "Lua",
+            "author": "LaynH"
+        }
+    ]
+}
